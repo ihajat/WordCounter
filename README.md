@@ -7,3 +7,4 @@
 7. It uses the following libraries: mockito, espresso, rx java2, dagger 2, butterknife.
 8. Regarding Espresso, unfortunately, RecyclerView does not inherit from AdapterView (it’s a direct subclass of ViewGroup instead), so you can’t use onData with it; hence need to write lots of boilerplate code, called idling resource, to ensure recycler_view is loaded before checking size, or value checking of rows.
 9. I use static access to the ApplicationComponent, for dependency injection, to allow ItemsInteractorImpl to inject the context.
+10. I will shortly update this file, to compare the solution I used over the other solutions.
