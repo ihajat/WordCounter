@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-runner-0.5_a10dc9beb6420b699116684f86fb158353370278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.5/612ecb799912ccf77cba9b3ed8c813da086076e9/objenesis-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="612ecb799912ccf77cba9b3ed8c813da086076e9">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/objenesis-2.5_ff76d82e1b0be74202f6fdff8e20eeee3170d4cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_373bce1c52db5785c696f88a8825773e2549c6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/okio-1.8.0_24f023edf3da04c3446c69eab858c71d2e2e035f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/2.7.22/fcf63bc8010ca77991e3cadd8d33ad1a40603404/mockito-core-2.7.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcf63bc8010ca77991e3cadd8d33ad1a40603404">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/mockito-core-2.7.22_4018f827015258a74dc66547938b98184e20c1fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_26691b51eda479ba563d6c0a30d7748484824663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-android/2.7.22/580a773656780bf0a5b5be75e4aefed37bbbea8f/mockito-android-2.7.22.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="580a773656780bf0a5b5be75e4aefed37bbbea8f">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/mockito-android-2.7.22_b3b1d14b74a30da3d8abb8aaf4ce50484626dabe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/io.reactivex.rxjava2/rxandroid/2.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/io.reactivex.rxjava2-rxandroid-2.0.1_7b3381f0693917511e25aaab00d20933daad8325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.6.11/8a8f9409e27f1d62c909c7eef2aa7b3a580b4901/byte-buddy-1.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a8f9409e27f1d62c909c7eef2aa7b3a580b4901">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/byte-buddy-1.6.11_df08d30c4ee3176cb3b95bc9789756797347f0ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_d52b9138580ca4aec6af1e41548af1be6fc95732.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_f13ed48cefcfbb70abcde597e99f33a94c6b02da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.0_0de850d7d9d979ad9ee77d2255eecb3f2c05309e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_9cb4fe68ffbc85f6e49eaadde21b4bc474a4642d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_418da72a4255b938b2875239ba9a370ce30a128a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_8448bde74010d00f5b7e04d7151a761f2dc87d3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_d717029d13b0e7f2d57d30da94de5f0520e20564.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.8/55a1aa1cdcfd06b9950ca856e2bc2790e105146a/dagger-2.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="55a1aa1cdcfd06b9950ca856e2bc2790e105146a">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/dagger-2.8_7fe661a81fc374d6eb457823ba9462445132c23c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_ac40d289553f255a3d396f75b470ee2b791dc3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton.retrofit/retrofit2-rxjava2-adapter/1.0.0/e117362a2103f8ec01091ebd2f40aca4e1ada599/retrofit2-rxjava2-adapter-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e117362a2103f8ec01091ebd2f40aca4e1ada599">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/retrofit2-rxjava2-adapter-1.0.0_ed0d91efb8af59ddf0724bdf3feb16c816ba3a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-android/1.6.5/40c25a11d65fd6cda13eb5df3e5258d941ed1bc3/byte-buddy-android-1.6.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="40c25a11d65fd6cda13eb5df3e5258d941ed1bc3">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/byte-buddy-android-1.6.5_40bda5faa74a4a08ac1718f04e224220c8821f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_942dd6e5b5db817944b3b996b64b1e6129689518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_e194ada2cc5d1abc796bd0292ec45d0fdca2f1dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton.android.repackaged/dalvik-dx/1/5344672f614ef1df39f7a9d88a5aa0e44d74d4d9/dalvik-dx-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5344672f614ef1df39f7a9d88a5aa0e44d74d4d9">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/dalvik-dx-1_4b9bfe25834bdc7d4d090f985e4f90529cd93795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_d3e606fce49ef8fb64e09cb4f485104cb0e56d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.1/57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb/rxjava-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="57f850a6b317e5582f1dbaff10a9e7d7e1fcdcfb">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/rxjava-2.0.1_0e6536ec23cbb6050c68a116aed177cbbbdd17e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_7f086caac02ee4f880465832a0b02c951b25864c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.jakewharton.android.repackaged/libcore-dex/2/1d3c98644912295ca8cb80069b1cdea4389085b2/libcore-dex-2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1d3c98644912295ca8cb80069b1cdea4389085b2">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/libcore-dex-2_755ff44ddca74730548b23062376c3791221564b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-rules-0.5_48f4810a42f20ca402ef13a1ffa904df276ebb4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/reactive-streams-1.0.0_35ce151b4228485c0ad32f0e384b3716df1d41d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/gson-2.7_95843d7dbe1687123fe28423d1169f98e2987007.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/javax.inject-1_464628a5b74cc0288a62158b8b40b762665b81d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_4ce1ee257f8d87844e09de01996679c74985a703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_f7bcd148c7b360013dbbf7965be08c9ef7e7fc50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support.test/exposed-instrumentation-api-publish/0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test-exposed-instrumentation-api-publish-0.5_4e5c47d83674b504929caca2c12163a60c50f4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d6e1ad2f581bd4b245c3ff3db3271acbb09be167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-core/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/com.android.support.test.espresso-espresso-core-2.2.2_cf1176c06bf49258b6ae34a387adda459060b4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.6.11/200d9c012befccd211ff91082a151257b1dc084/byte-buddy-agent-1.6.11.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0200d9c012befccd211ff91082a151257b1dc084">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/androidTest/debug/byte-buddy-agent-1.6.11_e7483af0b9c31675c051538c27655e0843c2290d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_dae4a9ba839f882bb019fd113b29c1533f492e98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/iqbalhajat/Downloads/WordCounter/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_57a5263e7d81eac3a77b104ebbd8a6523f65de62.jar" />
+    </item>
+
+</items>
