@@ -4,3 +4,4 @@
 4. This architecture facilitates TDD. Why because in TDD we follow 3 steps, 1) Write a failing test,
 5. write code to pass that test, 3) refactor. Since, we use interfaces, which is our contract, the interfaces don’t change. The contract , of how to use the code doesn’t change. Hence, it won’t break the tests, when we refactor the code. The internals of the code is hidden from the tests.
 6. We inject dependencies into the Presenter. Dependency Injection is a form of Dependency Inversion ( SOLID ).
+7. It uses the following libraries: mockito, espresso, rx java2, dagger 2, butterknife
