@@ -6,7 +6,7 @@
     <br>interceptors: where we subscribe the the observable
     <br>models: contains our POJOs
     <br>modules: contains the DI module classes
-    <br>observables: contains the observable ( here, it is the lines we read from a file)
+    <br>observables: contains the observable ( here, the observable is the lines we read from a file)
     <br>presenters: the presenters of MVP
     <br>views: the view interfaces we present to the presenter.
 2. The MainViews defines the interface that provides the functionality for this app. We can use this to guide the TDD. So, first, we create a test called, testReadFile, which fails. We then write the code for it until it passes and then refactor the code, as required.
