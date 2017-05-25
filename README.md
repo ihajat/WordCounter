@@ -6,4 +6,4 @@
 6. We inject dependencies into the Activity. Dependency Injection is a form of Dependency Inversion ( SOLID ).
 7. It uses the following libraries: mockito, espresso, rx java2, dagger 2, butterknife.
 8. Unfortunately, RecyclerView does not inherit from AdapterView (it’s a direct subclass of ViewGroup instead), so you can’t use onData with it; hence need to write lots of boilerplate code, called idling resource, to ensure recycler_view before checking size.
-I use static access to the ApplicationComponent, for dependency injection, to allow ItemsInteractorImpl to inject the context.
+9. I use static access to the ApplicationComponent, for dependency injection, to allow ItemsInteractorImpl to inject the context.
