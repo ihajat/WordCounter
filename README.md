@@ -5,5 +5,5 @@
 5. write code to pass that test, 3) refactor. Since, we use interfaces, which is our contract, the interfaces don’t change. The contract , of how to use the code doesn’t change. Hence, it won’t break the tests, when we refactor the code. The internals of the code is hidden from the tests.
 6. We inject dependencies into the Activity. Dependency Injection is a form of Dependency Inversion ( SOLID ).
 7. It uses the following libraries: mockito, espresso, rx java2, dagger 2, butterknife.
-8. Regarding Espresso, unfortunately, RecyclerView does not inherit from AdapterView (it’s a direct subclass of ViewGroup instead), so you can’t use onData with it; hence need to write lots of boilerplate code, called idling resource, to ensure recycler_view before checking size.
+8. Regarding Espresso, unfortunately, RecyclerView does not inherit from AdapterView (it’s a direct subclass of ViewGroup instead), so you can’t use onData with it; hence need to write lots of boilerplate code, called idling resource, to ensure recycler_view is loaded before checking size, or value checking of rows.
 9. I use static access to the ApplicationComponent, for dependency injection, to allow ItemsInteractorImpl to inject the context.
