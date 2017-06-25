@@ -1,4 +1,5 @@
 1. The architecture that I have used is MVP, so that it is easier to test. However, I have used a different structure folder, to allow users to easily find the files ( so, activites folder for activities, components folder for all DI Component interfaces, etc). Some like this folder structure, whilst, I'm sure, others will not.
+
  Here is a list of the folders:
     <br>activites: contains all activities
     <br>adapters: contains the recycler view adpater
